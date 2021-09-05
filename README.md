@@ -7,7 +7,7 @@ pip install google-cloud-vision
 
 Install Tesseract OCR from https://github.com/tesseract-ocr/tesseract
 
-Place two models in directopry folder
+Place two models in directory folder
 
 In Driver file: change isOnline to switch between Tesseract and CloudVision
   Change Image that is being analyzed
